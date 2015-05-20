@@ -1,0 +1,28 @@
+{
+  "name": "owl-carousel",
+  "version": "2.0.0",
+  "authors": [
+    "Soham Banerjee <soham2008xyz@gmail.com>"
+  ],
+  "description": "Owl Carousel for WordPress",
+  "main": "owl.carousel.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "carousel",
+    "jquery",
+    "wordpress"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/soham2008xyz/owl-carousel",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+	"owl.carousel.js",
+	"README.md"
+  ]
+}
